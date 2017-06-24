@@ -1,4 +1,4 @@
-package emsdk
+package goEasemob
 
 import (
 	"encoding/json"
